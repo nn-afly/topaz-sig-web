@@ -1,7 +1,6 @@
 /**
  * Created by Bradley Brandon on 9/4/19.
  */
-export namespace Topaz {
 
     export type ImgStringCallback = (base64: string) => void;
 
@@ -30,4 +29,3 @@ export namespace Topaz {
     export function SetImagePenWidth(px: number): void;
 
     export function GetSigImageB64(callback: (base64: string) => void): string;
-}

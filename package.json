@@ -1,15 +1,16 @@
 {
-    "name": "@webappaloosa/topaz-sig-web",
+    "name": "@nn-afly/topaz-sig-web",
     "version": "1.0.0",
     "description": "SigWebTablet JavaScript for TopazSigWeb SDK",
     "license": "MIT",
-    "repository": "webappaloosa/topaz-sig-web",
+    "repository": "nn-afly/topaz-sig-web",
     "main": "index.js",
     "keywords": [
         "topaz",
         "npm",
         "package",
         "webappaloosa",
+        "nn-afly",
         "SigWeb"
     ],
     "typings": "typings.d.ts"
